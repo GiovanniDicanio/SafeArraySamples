@@ -1,0 +1,6 @@
+LIBRARY NativeDll
+
+EXPORTS
+	ProduceSafeArrayOfBytes @1
+	ProduceSafeArrayOfStrings @2
+
